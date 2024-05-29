@@ -64,23 +64,41 @@ Na Slovensku sa zdaňovanie benefitov riadi Zákonom o dani z príjmov a zákonn
 ### Inovacia = inakost: Neobvyklé benefity
 
 **Masterclass alebo tréningy s vedúcimi odborníkmi**: Prístup k exkluzívnym prednáškam alebo workshopom s odborníkmi v odvetví.
+
 **Zdravotnícke benefity**: Možnosť konzultácie s výživovými poradcami alebo osobnými trénermi.
+
 **Voľný vstup na kultúrne a športové podujatia**: Lístky na koncerty, divadelné predstavenia alebo športové zápasy.
+
 **Firemná knižnica**: Prístup k širokej ponuke odborných kníh a časopisov.
+
 **Podpora start-upov a podnikania zamestnancov**: Minigranty alebo mentorstvo pre zamestnancov, ktorí chcú začať vlastné podnikanie.
+
 **Kurz varenia alebo baristického umenia**: Podpora osobného rozvoja cez netradičné kurzy.
+
 **Rekreácia a wellness**: Príspevky na wellness pobyty, masáže, alebo relaxačné aktivity.
+
 **Firemná záhrada alebo zelená strecha**: Priestor na pestovanie vlastnej zeleniny a ovocia, prípadne relax.
+
 **Sociálne udalosti a dobrovoľnícke dni**: Platené voľno na účasť v komunitných projektoch alebo charitatívnych podujatiach.
+
 **Sponzoring športových tímov**: Možnosť podporiť zamestnancov v ich športových aktivitách alebo ponúkanie športového vybavenia.
+
 **Kurzy osobného rozvoja a psychologické poradenstvo**: Možnosť konzultácie s kariérovými alebo osobnými koučmi.
+
 **Inovačné granty a súťaže**: Podpora inovácií a kreativity medzi zamestnancami cez interné grantové programy alebo súťaže.
+
 **Sabbatical a exkluzívne študijné pobyty**: Platené voľno na dlhšie obdobie pre osobný rozvoj alebo odborné štúdiá.
+
 **Firemné byty alebo príspevky na bývanie**: Poskytnutie zvýhodneného bývania pre zamestnancov.
+
 **Podpora zelených alternatív dopravy**: Príspevky na ekologické dopravné prostriedky, nabíjacie stanice pre elektromobily.
+
 **Firemný mentorovací program**: Spájanie skúsených zamestnancov s nováčikmi na účely osobného a profesionálneho rozvoja.
+
 **Školy a škôlky pri práci**: Podpora rodinného života cez vlastné školy alebo škôlky v blízkosti pracoviska.
+
 **Možnosť práce z rôznych krajín (Remote Work Visa Support)**: Administratívna a právna pomoc pri práci z iných krajín.
+
 **Návrhy obrazu pracovného miesta**: Možnosť personalizovať si pracovné miesto s dizajnovými komponentami alebo inovatívnym zariadením.
 
 #### Potenciál Benefitov
