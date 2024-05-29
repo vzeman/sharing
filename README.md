@@ -107,5 +107,64 @@ Na Slovensku sa zdaňovanie benefitov riadi Zákonom o dani z príjmov a zákonn
 2. **Technologické inovácie**: Využívanie digitálnych nástrojov na správu benefitov môže znižovať administratívne záťaže.
 3. **Zelené a udržateľné benefity**: Rastúci dôraz na ekologické a sociálne zodpovedné benefity, ako napr. podpora ekologickej dopravy alebo dobrovoľníctva.
 
+
+### Štatistiky a zdroje o najobľúbenejších benefitoch
+
+#### Štatistiky
+
+1. **Flexibilný pracovný čas a home office**:
+   - Podľa prieskumu Eurofound (2020), až **78 % zamestnancov** uviedlo, že možnosť práce z domu alebo flexibilný pracovný čas je pre nich veľmi dôležitý.
+   - LinkedIn's Global Talent Trends 2019 report uvádza, že **72 % profesionálov** považuje flexibilitu práce za najdôležitejší faktor pri uvažovaní o novej pracovnej príležitosti.
+
+2. **Zdravotné benefity**:
+   - Podľa štúdie spoločnosti Glassdoor (2016), až **60 % zamestnancov** uviedlo, že zdravotné benefity sú najdôležitejším benefitom, ktorý zvažujú pri rozhodovaní sa o zamestnaní.
+   - Willis Towers Watson (2020) zistil, že **80 % zamestnancov** verí, že zamestnávateľom, ktorí preukazujú starostlivosť o ich zdravie, je viac dôverovaný.
+
+3. **Doplnkové vzdelávanie a osobný rozvoj**:
+   - Podľa prieskumu spoločnosti PwC (2018), až **74 % milleniálov** uviedlo, že benefity týkajúce sa osobného rozvoja sú jedným z kľúčových dôvodov, prečo si zvolili konkrétneho zamestnávateľa.
+   - Udemy’s 2021 Workplace Learning Trends Report ukazuje, že **61 % zamestnancov** považuje možnosti rozvoja a vzdelávania za nevyhnutné pre ich pracovnú spokojnosť.
+
+4. **Dlhšia dovolenka a platené voľno**:
+   - Podľa prieskumu z roku 2020 od spoločnosti MetLife, asi **65 % zamestnancov** považuje predĺženú dovolenku za kriticky dôležitý benefit.
+   - Mercer’s 2021 Global Talent Trends study zistil, že **56 % zamestnancov** uprednostňuje platené voľno ako kľúčový benefit.
+
+5. **Finančné benefity a bonusy**:
+   - SHRM (Society for Human Resource Management) Benefit Survey 2019 zistila, že až **70 % zamestnancov** považuje bonusy a finančné príspevky za veľmi dôležité.
+   - Fidelity Investments 2021 report uvádza, že **45 % zamestnancov** by zvažovalo zmenu zamestnania kvôli lepším finančným benefitom.
+
+#### Zdroje
+
+1. **Eurofound (2020) – Living, working and COVID-19**:
+   - [Eurofound Report](https://www.eurofound.europa.eu/sites/default/files/ef_publication/field_ef_document/ef20059en.pdf)
+
+2. **LinkedIn's Global Talent Trends 2019**:
+   - [LinkedIn Report](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/resources/pdfs/linkedin-global-talent-trends-2019-report.pdf)
+
+3. **Glassdoor (2016) - Employee Benefits Review**:
+   - [Glassdoor Study](https://www.glassdoor.com/research/benefits-reviews/)
+
+4. **Willis Towers Watson (2020) – Global Benefits Attitudes Survey**:
+   - [Willis Towers Watson Report](https://www.willistowerswatson.com/en-US/insights/2020/01/global-benefits-attitudes-2020)
+
+5. **PwC (2018) – Workforce of the future: The competing forces shaping 2030**:
+   - [PwC Report](https://www.pwc.com/gx/en/services/people-organisation/workforce-of-the-future.html)
+
+6. **Udemy (2021) – Workplace Learning Trends Report**:
+   - [Udemy Report](https://business.udemy.com/resources/reports/2021-workplace-learning-trends-report/)
+
+7. **MetLife (2020) – Employee Benefit Trends Study**:
+   - [MetLife Study](https://www.metlife.com/employee-benefit-trends/ebts2020/)
+
+8. **Mercer’s 2021 Global Talent Trends study**:
+   - [Mercer Report](https://www.mercer.com/our-thinking/career/global-talent-hr-trends.html)
+
+9. **SHRM (2019) Benefit Survey**:
+   - [SHRM Survey](https://www.shrm.org/hr-today/news/hr-magazine/0919/pages/2019-employee-benefits-healthcare-retirement-family-friendly-perks.aspx)
+
+10. **Fidelity Investments (2021) – Financial Benefit Trends**:
+    - [Fidelity Report](https://www.fidelity.com/about-fidelity/employer-services/workplace-insights/employee-benefits-trends)
+
+Tieto štatistiky a zdroje poskytujú prehľad o tom, ktoré benefity sú pre zamestnancov najdôležitejšie a najatraktívnejšie, čo môže pomôcť firmám pri optimalizácii ich benefitových programov.
+
 #### Záver
 S rastúcou konkurenciou na trhu práce je potrebné, aby zamestnávatelia neustále inovovali a prispôsobovali svoje ponuky benefitov, aby tak mohli čo najlepšie naplniť potreby svojich zamestnancov a zároveň dosahovali svoje obchodné ciele.
