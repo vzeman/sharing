@@ -138,33 +138,20 @@ Na Slovensku sa zdaňovanie benefitov riadi Zákonom o dani z príjmov a zákonn
    - [Eurofound Report](https://www.eurofound.europa.eu/en/publications/2020/living-working-and-covid-19)
 
 2. **LinkedIn's Global Talent Trends 2019**:
-   - [LinkedIn Report](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/resources/pdfs/linkedin-global-talent-trends-2019-report.pdf)
-
-3. **Glassdoor (2016) - Employee Benefits Review**:
-   - [Glassdoor Study](https://www.glassdoor.com/research/benefits-reviews/)
+   - [LinkedIn Report](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/resources/pdfs/global-talent-trends-2019-old.pdf)
 
 4. **Willis Towers Watson (2020) – Global Benefits Attitudes Survey**:
-   - [Willis Towers Watson Report](https://www.willistowerswatson.com/en-US/insights/2020/01/global-benefits-attitudes-2020)
+
 
 5. **PwC (2018) – Workforce of the future: The competing forces shaping 2030**:
-   - [PwC Report](https://www.pwc.com/gx/en/services/people-organisation/workforce-of-the-future.html)
+   - [PwC Report](https://www.pwc.com/gx/en/services/workforce/publications/workforce-of-the-future.html)
 
 6. **Udemy (2021) – Workplace Learning Trends Report**:
-   - [Udemy Report](https://business.udemy.com/resources/reports/2021-workplace-learning-trends-report/)
+   - [Udemy Report](https://business.udemy.com/resources/2021-workplace-learning-trends-report/?utm_source=organic-search&utm_medium=google)
 
 7. **MetLife (2020) – Employee Benefit Trends Study**:
-   - [MetLife Study](https://www.metlife.com/employee-benefit-trends/ebts2020/)
+   - [MetLife Study](https://www.metlife.com/employee-benefit-trends/healthcare-ebts-2020/)
 
-8. **Mercer’s 2021 Global Talent Trends study**:
-   - [Mercer Report](https://www.mercer.com/our-thinking/career/global-talent-hr-trends.html)
-
-9. **SHRM (2019) Benefit Survey**:
-   - [SHRM Survey](https://www.shrm.org/hr-today/news/hr-magazine/0919/pages/2019-employee-benefits-healthcare-retirement-family-friendly-perks.aspx)
-
-10. **Fidelity Investments (2021) – Financial Benefit Trends**:
-    - [Fidelity Report](https://www.fidelity.com/about-fidelity/employer-services/workplace-insights/employee-benefits-trends)
-
-Tieto štatistiky a zdroje poskytujú prehľad o tom, ktoré benefity sú pre zamestnancov najdôležitejšie a najatraktívnejšie, čo môže pomôcť firmám pri optimalizácii ich benefitových programov.
 
 #### Záver
 S rastúcou konkurenciou na trhu práce je potrebné, aby zamestnávatelia neustále inovovali a prispôsobovali svoje ponuky benefitov, aby tak mohli čo najlepšie naplniť potreby svojich zamestnancov a zároveň dosahovali svoje obchodné ciele.
