@@ -135,7 +135,7 @@ Na Slovensku sa zdaňovanie benefitov riadi Zákonom o dani z príjmov a zákonn
 #### Zdroje
 
 1. **Eurofound (2020) – Living, working and COVID-19**:
-   - [Eurofound Report](https://www.eurofound.europa.eu/sites/default/files/ef_publication/field_ef_document/ef20059en.pdf)
+   - [Eurofound Report](https://www.eurofound.europa.eu/en/publications/2020/living-working-and-covid-19)
 
 2. **LinkedIn's Global Talent Trends 2019**:
    - [LinkedIn Report](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/resources/pdfs/linkedin-global-talent-trends-2019-report.pdf)
