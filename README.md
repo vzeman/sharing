@@ -59,7 +59,7 @@ Zamestnávatelia si čoraz viac uvedomujú, že kvalitne navrhnuté benefity mô
 3. **Nerovnomernosť v hodnotení**: Niektorí zamestnanci môžu preferovať určité benefity viac ako iní, čo môže viesť k nevyváženému vnímaniu poctivosti zo strany zamestnancov.
 
 #### Zdanovanie
-Na Slovensku sa zdaňovanie benefitov riadi Zákonom o dani z príjmov a zákonníkom práce. Väčšina benefitov, ktoré zamestnávateľ poskytuje zamestnancom, podlieha dani z príjmu a odvodu na sociálne a zdravotné poistenie. Finančné benefity, ako sú bonusy a odmeny, a nefinančné benefity, ako napríklad Multisport karta alebo príspevok na stravovanie, sa považujú za súčasť hrubého príjmu zamestnanca a sú zdaňované podobne ako mzda. Naopak, niektoré benefity, ako napríklad kurzy a školenia relevantné k vykonávanej práci alebo určité druhy príspevkov na dôchodkové sporenie, môžu byť čiastočne alebo úplne oslobodené od dane. Podmienky a pravidlá sa však môžu meniť, preto je dôležité vždy konzultovať aktuálnu legislatívu a prípadne aj daňových poradcov.
+Na Slovensku sa zdaňovanie benefitov riadi Zákonom o dani z príjmov a zákonníkom práce. Väčšina benefitov, ktoré zamestnávateľ poskytuje zamestnancom, podlieha dani z príjmu a odvodu na sociálne a zdravotné poistenie. Finančné benefity, ako sú bonusy a odmeny, a nefinančné benefity, ako napríklad Multisport karta alebo príspevok na stravovanie, sa považujú za súčasť hrubého príjmu zamestnanca a sú zdaňované podobne ako mzda. Naopak, niektoré benefity, ako napríklad kurzy a školenia relevantné k vykonávanej práci alebo určité druhy príspevkov na dôchodkové sporenie, môžu byť čiastočne alebo úplne oslobodené od dane.
 
 #### Potenciál Benefitov
 
